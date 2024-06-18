@@ -8,3 +8,5 @@
 #### Secondly, run the file EDA.ipynb to get the EDA plots.
 #### Thirdly, run the file called network_plots.ipynb to get the majority plots for the networks for the both datasets.
 #### The fourth step is optional, you are able to run the code in tables.ipynb to get all the tables about the metrics values in network plots.
+
+### Here is one reminder, better to save the plots undering the cell.
